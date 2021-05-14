@@ -1,0 +1,10 @@
+<table cellspacing=1 cellpadding=3 align=center border=0 width="97%">
+<tr><td height=25>>> </td></tr>
+</table>
+<table cellspacing=1 cellpadding=3 align=center class=tableBorder2>
+<tr><td height=25 valign=middle>
+<img src="/skin/default/Forum_nav.gif" align=absmiddle>
+<a href=/>[系统名字]</a> → [导航] 发表帖子
+</td></td>
+</table>
+<BR>

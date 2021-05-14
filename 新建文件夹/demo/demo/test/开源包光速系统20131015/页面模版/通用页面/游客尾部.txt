@@ -1,0 +1,11 @@
+<TABLE cellSpacing=0 cellPadding=0 width="97%" border=0 align=center>
+<tr><td align=center>
+
+</td></tr>
+<tr><td align=center>
+   程序开发：<a href=#>孟庆飞</a><br>
+ 更新时间：2013年9月   核心模块：光速互动6.1.0.0 页面执行时间：[执行时间]
+</td></tr>
+</table>
+</body>
+</html>

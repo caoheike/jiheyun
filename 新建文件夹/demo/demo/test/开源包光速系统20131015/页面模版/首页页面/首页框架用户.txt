@@ -1,0 +1,39 @@
+
+
+
+<TABLE border=0 width="97%" align=center>
+<TR><TD style="line-height: 20px;">
+今日：<FONT COLOR="#FF0000"><B>[今日帖子]</B></FONT> , 帖子：<B>[帖子总数]</B> 用户：<B>[用户总数]</B></TD>
+</TR>
+</TABLE>
+
+<table cellpadding=3 cellspacing=1 align=center class=tableborder1><TR>
+<Th  colSpan=2 align=left height=25>&nbsp;欢迎光临</Th></TR><TR>
+<TD vAlign=top class=tablebody1 width=100% >
+<table width=100% ><tr>
+<td width="16%">&nbsp;公告:&nbsp;开源包更新日期9月6日.每天晚上7点到10点可能会比较慢,网络占用高.</td>
+</table>
+</TD></TR></table>
+
+[一级版块]
+
+<BR>
+<table cellpadding=3 cellspacing=1 align=center class=tableborder1><TR>
+<Th  colSpan=2 align=left height=25>-=> 友情论坛</Th></TR><TR>
+<TD vAlign=top class=tablebody1 width=100% >
+<table width=100% ><tr><td width="16%">
+<a href=http://bbs.eyuyan.com/ target=_blank>易语言</a></td></table>
+</TD></TR></table><BR>
+<table cellpadding=5 cellspacing=1 class=tableborder1 align=center style="word-break:break-all;">
+<TR><Th align=left colSpan=2 height=25>-=> 用户来访信息</Th></TR><TR><TD vAlign=top class=tablebody1 height=25 width=100% >您的访问信息：[用户信息]</TD></TR><TR>
+<Th colSpan=2 align=left id=tabletitlelink height=25 style="font-weight:normal">
+<b>-=> 在线统计</b>&nbsp;</Th></TR><TR><TD width=100% vAlign=top class=tablebody1>  目前论坛上总共有 <b>[在线数]</b> 人在线，其中注册用户 [用户数] 人 游客 [游客数] 人
+<table width=100% border=0 cellspacing=0 cellpadding=0>
+</table></TD></TR>
+</TABLE><BR>
+<table cellspacing=1 cellpadding=3 width="97%" border=0 align=center>
+<tr><td align=center><img src="skin/default/forum_nonews.gif" align="absmiddle">&nbsp;没有新的帖子&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="skin/default/forum_isnews.gif" align="absmiddle">&nbsp;有新的帖子&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="skin/default/forum_lock.gif" align="absmiddle">&nbsp;被锁定的论坛</td></tr>
+</table>
+
+<p>
+

@@ -1,0 +1,48 @@
+<TABLE cellPadding=5 cellSpacing=1 align=center class=tableborder1 style=" table-layout:fixed;word-break:break-all">
+<tr><td class=tablebody1 valign=top width=175>
+<table width=100% cellpadding=4 cellspacing=0><tr>
+<td width=* valign=middle style="filter:glow(color=#9898BA,strength=2)">
+&nbsp;<a name=2><font color=#990000><B>[帖子作者]</B></font></a></td>
+<td width=25 valign=middle><img src=/skin/default/ofMale.gif alt=帅哥哟，离线，有人找我吗？></td>
+<td width=16 valign=middle></td></tr>
+</table>
+&nbsp;&nbsp;<img src=/skin/userface/image1.gif width=32 height=32><br>
+&nbsp;&nbsp;<img src=/skin/pic/level10.gif><br>
+&nbsp;&nbsp;等级：用户等级<BR>
+&nbsp;&nbsp;文章：文章<br>
+&nbsp;&nbsp;积分：积分<br>
+&nbsp;&nbsp;注册：注册时间<BR>
+</td>
+<td class=tablebody1 valign=top width=*>
+<table width=100% ><tr><td width=*>
+&nbsp;<a href="#"><img src="/skin/pic/friend.gif" border=0 alt="加好友"></a>
+&nbsp;<a href="#"><img src="/skin/pic/profile.gif" border=0 alt="查看资料"></a>
+&nbsp;<a href="#"><img src="/skin/pic/reply_a.gif" border=0 alt=回复这个贴子></a>
+</td>
+<td width=50><b>[楼层]</b></td></tr>
+<tr>
+<td bgcolor=#6595D6 height=1 colspan=2></td></tr>
+</table>
+<blockquote>
+<table class=tablebody2 border=0 width="90%">
+<tr><td width="100%" style="font-size:9pt;line-height:12pt">
+&nbsp;<b>[帖子标题]</b><br>
+<br>
+[帖子内容]</td></tr>
+</table>
+</blockquote>
+</td></tr>
+<tr><td class=tablebody1 valign=middle align=center width=175>
+<a href=#><img align=absmiddle border=0 width=13 height=15 src="/skin/default/ip.gif"></a>
+ [发帖时间]</td>
+<td class=tablebody1 valign=middle width=*>
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td align=left valign=middle>
+ &nbsp;&nbsp;<a href="#" title="支持楼主，将消耗您5点金钱">
+<img src=/skin/pic/xianhua.gif border=0>支持</a>(<font color=#FF0000>0</font>)
+&nbsp;&nbsp;<a href="#" title="反对楼主，将消耗您5点金钱">
+<img src=/skin/pic/jidan.gif border=0>反对</a>(<font color=#FF0000>0</font>)</td>
+<td align=right nowarp valign=bottom width=110></td>
+<td align=right valign=bottom width=4> </td></tr>
+</table></td></tr>
+</table>

@@ -1,0 +1,32 @@
+<table cellspacing=1 cellpadding=3 align=center border=0 width="97%">
+<tr>
+<td height=15></td></tr>
+</table>
+<table cellspacing=1 cellpadding=3 align=center class=tableBorder2>
+<tr><td height=25 valign=middle>
+<img src="skin/default/Forum_nav.gif" align=absmiddle> <a href=/>光速互动</a> → 用户登录
+<a name=top></a>
+</td></td>
+</table>
+<BR>
+
+<table cellspacing=1 cellpadding=3 align=center class=tableBorder1>
+<form action=/denglu.html method=post>
+<tr>
+<th align=left id=tabletitlelink height=25 style="font-weight:normal">
+<b>-=> 欢迎登陆</b>
+[<a href=/zhuce.html>注册用户</a>]　[<a href=# style="CURSOR: help">忘记密码</a>]
+</th>
+</tr>
+<tr>
+<td class=tablebody1 height=40 width="100%">
+&nbsp;用户名：<input maxLength=16 name=username size=12>　　密码：<input maxLength=20 name=password size=12 type=password>　<input type=submit name=submit value="登 陆">
+</td>
+</tr>
+</form>
+</table>
+<BR>
+
+
+<p>
+

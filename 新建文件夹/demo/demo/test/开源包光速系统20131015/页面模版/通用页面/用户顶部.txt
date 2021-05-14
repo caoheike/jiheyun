@@ -1,0 +1,126 @@
+<html>
+<head>
+<META http-equiv=Content-Type content=text/html; charset=gb2312>
+<meta name="baidu-site-verification" content="2PpRQu2Bsz" />
+<title>[页面标题]</title>
+<style type="text/css">
+A:link,A:active,A:visited{TEXT-DECORATION:none ;Color:#000000}
+A:hover{TEXT-DECORATION: underline;Color:#4455aa}
+BODY{
+FONT-SIZE: 12px;
+COLOR: #000000;
+FONT-FAMILY:  宋体;
+background-color: #FFFFFF; 
+scrollbar-face-color: #DEE3E7;
+scrollbar-highlight-color: #FFFFFF;
+scrollbar-shadow-color: #DEE3E7;
+scrollbar-3dlight-color: #D1D7DC;
+scrollbar-arrow-color:  #006699;
+scrollbar-track-color: #EFEFEF;
+scrollbar-darkshadow-color: #98AAB1;
+}
+TD{
+font-family: 宋体;
+font-size: 12px;
+line-height: 15px;
+}
+th
+{
+background-image: url(skin/default/bg1.gif);
+background-color: #4455aa;
+color: white;
+font-size: 12px;
+font-weight:bold;
+}
+td.TableTitle2
+{
+background-color: #E4E8EF;
+}
+td.TableBody1
+{
+background-color: #FFFFFF;
+}
+td.TableBody2
+{
+background-color: #E4E8EF;
+}
+td.TopDarkNav
+{
+background-image: url(skin/default/topbg.gif);
+}
+td.TopLighNav
+{
+background-image: url(skin/default/bottombg.gif);
+}
+td.TopLighNav1
+{
+background-image: url(skin/default/tabs_m_tile.gif);
+}
+td.TopLighNav2
+{
+background-color:#FFFFFF
+}
+.tableBorder1
+{
+width:97%;
+border: 1px; 
+background-color: #6595D6;
+}
+.tableBorder2
+{
+width:97%;
+border: 1px #DEDEDE solid; 
+background-color: #EFEFEF;
+}
+
+#TableTitleLink A:link, #TableTitleLink A:visited, #TableTitleLink A:active {
+	COLOR: #FFFFFF;
+	TEXT-DECORATION: none;
+}
+#TableTitleLink A:hover {
+	COLOR: #FFFFFF;
+	TEXT-DECORATION: underline;}
+
+input,select,Textarea{
+font-family:Tahoma,Verdana,宋体; font-size: 12px; line-height: 15px;}
+}
+.normalTextSmall 
+{ 
+    font-size : 11px;
+    color : #000000; 
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body  topmargin=0 leftmargin=0>
+<div id=menuDiv style='Z-INDEX: 2; VISIBILITY: hidden; WIDTH: 1px; POSITION: absolute; HEIGHT: 1px; BACKGROUND-COLOR: #9cc5f8'></div>
+<table cellspacing=0 cellpadding=0 align=center style="border:1px #6595D6 solid; border-top-width: 0px; border-right-width: 1px; border-bottom-width: 0px; border-left-width: 1px;width:97%;">
+<tr><td width=100%>
+<table width=100% align=center border=0 cellspacing=0 cellpadding=0>
+<tr><td class=TopDarkNav height=9></td></tr>
+<tr><td height=70 class=TopLighNav2>
+<TABLE border=0 width="100%" align=center>
+<TR>
+<TD align=left width="25%"><a href="/"><img border=0 src='skin/default/logo.gif'></a></TD>
+<TD Align=center width="65%">
+光速互动论坛处于开发状态，不定时更新，感谢关注。
+</td>
+<td align=right style="line-height: 15pt" width="10%">
+<a href=#><span style="CURSOR: hand" onClick="window.external.AddFavorite('#', '测试')">加入收藏</span></a>
+<br><a href="#">联系我们</a>
+<br><a href="#">系统帮助</a>
+</td>
+</td></tr>
+</table>
+</td></tr>
+<tr><td class=TopLighNav height=9></td></tr>
+<tr> 
+  <td class=TopLighNav1 height=22  valign="middle">&nbsp;&nbsp;
+
+<a href="/index.html">首页</a> <img src=skin/default/navspacer.gif align=absmiddle> <B><a href="[用户连接]">[用户名字]</a></B><a href="[用户连接]">&nbsp;我的资料</a> <img src=skin/default/navspacer.gif align=absmiddle> <a href="/tuichu.html">退出</a> <img src=skin/default/navspacer.gif align=absmiddle>  
+<a href="/kfjd.html"><FONT COLOR="#FF0000"><B>开发进度</B></FONT></a> <img src=skin/default/navspacer.gif align=absmiddle> <a href="/xtsz.html">设置参数</a> <img src=skin/default/navspacer.gif align=absmiddle> <a href="/lxwm.html">联系我们</a>
+			</td>
+</tr>
+</table>
+</td></tr>
+</table>

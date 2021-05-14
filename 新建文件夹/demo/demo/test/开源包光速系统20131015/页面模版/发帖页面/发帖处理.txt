@@ -1,0 +1,18 @@
+<html>
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+</head>
+<body>
+<form name="form" method="post" action="/shangchuan.html" enctype="multipart/form-data">
+<table width="100%" border=0 cellspacing=0 cellpadding=0>
+<tr><td class=tablebody1 valign=top height=40>
+<input type="hidden" name="filepath" value="UploadFile">
+<input type="hidden" name="act" value="upload"><input type="file" name="file1" size=10>
+<input type="submit" name="Submit" value="上传" onclick="parent.document.forms[0].Submit.disabled=true,
+parent.document.forms[0].Submit2.disabled=true;">
+</td></tr>
+</table>
+</form>
+</body>
+</html>

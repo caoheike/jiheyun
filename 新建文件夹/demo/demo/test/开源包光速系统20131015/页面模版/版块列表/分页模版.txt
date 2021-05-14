@@ -1,0 +1,5 @@
+<table border=0 cellpadding=0 cellspacing=3 width=97% align=center >
+<tr><td valign=middle>
+<div align=left >当前页[当前页]/总页数[总页数]/分页:
+[分页]
+</div></td></tr></table>

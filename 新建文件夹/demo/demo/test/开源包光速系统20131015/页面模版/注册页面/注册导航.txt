@@ -1,0 +1,12 @@
+
+<table cellspacing=1 cellpadding=3 align=center border=0 width="97%">
+<tr>
+<td height=25>>> <B>欢迎光临</B></td></tr>
+</table>
+<table cellspacing=1 cellpadding=3 align=center class=tableBorder2>
+<tr><td height=25 valign=middle>
+<img src="skin/default/Forum_nav.gif" align=absmiddle> <a href=/>光速互动</a> → 用户注册 → 注册协议
+<a name=top></a>
+</td></td>
+</table>
+<br>

@@ -1,0 +1,19 @@
+<body  topmargin=0 leftmargin=0>
+
+<table cellpadding=3 cellspacing=1 align=center class=tableborder1>
+<TBODY> 
+<TR> 
+<Th height=24 align=left> [БъЬт]</Th>
+</TR>
+<TR> 
+<Td class=tablebody1 height=24>
+<BR>
+    [ФкШн]
+<BR>
+<BR>
+</TD>
+</TR>
+</TBODY>
+</TABLE>
+<BR>
+<BR>

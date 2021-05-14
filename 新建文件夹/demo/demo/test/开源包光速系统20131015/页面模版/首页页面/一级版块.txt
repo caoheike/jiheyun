@@ -1,0 +1,5 @@
+<table cellspacing=1 cellpadding=0 align=center class=tableBorder1>
+<TR><Th colSpan=2 height=25 align=left id=TableTitleLink>&nbsp;
+<a href=# title=进入本分类论坛>[版块名字]</a></Th></TR>
+[二级版块]
+</table>

@@ -1,0 +1,92 @@
+[帖子导航]
+
+
+<BR>
+<table cellpadding=0 cellspacing=0 border=0 width=97% align=center>
+<tr>
+<td align=left width="30%" valign=middle>&nbsp; 
+
+<a href="[发帖地址]"><img src="/skin/default/postnew.gif" alt="发表一个新主题" border=0></a>&nbsp;
+<a href="#"><img src="/skin/default/votenew.gif" alt=发表一个新投票 border=0></a>&nbsp;
+<a href="#"><img src="/skin/default/reply.gif" alt=回复主题 border=0></a>
+
+</td>
+<td align=right width="70%" valign=middle>您是本帖的第 <B>0</B> 个阅读者<a href="#">
+<img src="/skin/default/prethread.gif" border=0 alt=浏览上一篇主题 width=52 height=12></a>&nbsp;
+<a href="javascript:this.location.reload()"><img src="/skin/default/refresh.gif" border=0 alt=刷新本主题 width=40 height=12></a> &nbsp;
+<a href="#"><img src="/skin/default/nextthread.gif" border=0 alt=浏览下一篇主题 width=52 height=12></a>
+</td>
+</tr>
+</table>
+
+<TABLE cellPadding=0 cellSpacing=1 align=center class=tableborder1>
+<tr align=middle> 
+<td align=left valign=middle width="100%" height=25>
+<table width=100% cellPadding=0 cellSpacing=0 border=0>
+<tr>
+<th align=left valign=middle width="73%" height=25>
+&nbsp;* 贴子主题</B>： test</th>
+<th width=37% align=right>
+<a href="#"><img src=/skin/default/report.gif alt=报告本帖给版主 border=0></a>&nbsp;
+</th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+[帖子显示]
+
+
+<BR>
+[帖子分页]
+<BR>
+
+
+<table cellpadding=1 cellspacing=1 class=tableborder1 align=center>
+<tr>
+<th align=left colspan=2 width=100% valign=middle height=25> &nbsp;*快速回复：</th></tr>
+<form action="[回复地址]" method=POST enctype="multipart/form-data">
+<TR><TD noWrap width=175 class=tablebody2><b>你的用户名:</b></TD>
+<TD height=30 class=tablebody2><INPUT maxLength=25 size=23 value="" name=UserName>
+&nbsp;&nbsp; <A href="/zhuce.html">还没注册?</A>  &nbsp;&nbsp;  <b>密码:</b>
+<INPUT type=password maxLength=20 size=23 value="" name=passwd>
+&nbsp;&nbsp; <A href="#">忘记密码?</A></TD></TR>
+<TR> <TD vAlign=top noWrap class=tablebody1><b></b><br>
+<li>HTML标签： 不可用
+<li>UBB标签： 可用
+<li>贴图标签： 可用
+<li>多媒体标签：可用
+<li>表情字符转换：可用
+<li>上传图片：可用
+<li>最多15KB
+</TD>
+<TD class=tablebody1> 
+<TEXTAREA name=Content cols=100 rows=7 wrap=VIRTUAL title=可以使用Ctrl+Enter直接提交贴子  onkeydown=ctlent()>[回复内容]</TEXTAREA>
+</TD></TR>
+<TR bgColor=background-color: #FFFFFF;>
+<TD noWrap class=tablebody2 height=30>
+<INPUT type=checkbox CHECKED value=yes name=signflag>
+显示签名 
+</TD>
+<TD width="100%" class=tablebody2> 
+<input type=Submit value="OK!发表我的回应帖子" name=Submit>
+&nbsp;<input type=reset name=Clear value=清空内容！>[Ctrl+Enter直接提交贴子] 
+</TD>
+</TR></FORM>
+</TABLE>
+<BR>
+
+
+<TABLE cellSpacing=0 cellPadding=0 width="97%" border=0 align=center>
+<tr valign=center> <td width =100% align=right> <b>管理选项</b>：
+<a href="#" title=锁定本主题>锁定</a> 
+  | <a href="#" title=将本主题解开锁定>解锁</a>
+  | <a href="#" title=将本主题提升到帖子列表最前面>提升</a>
+  | <a href="#" title=注意：本操作将删除本主题所有贴子，不能恢复>删除</a>
+  | <a href="#" title=移动主题>移动</a>
+  | <a href="#" title=将本主题固顶>固顶</a>
+  | <a href="#" title=将本主题总固顶>总固顶</a>
+  | <a href="#  title=对楼主发起奖励>奖励</a>
+  | <a href="#" title=对发起主题用户惩罚>惩罚</a>
+</td></tr></table>

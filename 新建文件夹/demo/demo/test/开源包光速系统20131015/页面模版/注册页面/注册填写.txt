@@ -1,0 +1,82 @@
+
+
+<table cellspacing=1 cellpadding=3 align=center border=0 width="97%">
+<tr>
+<td height=25>>>  <B>欢迎光临</B></td></tr>
+</table>
+<table cellspacing=1 cellpadding=3 align=center class=tableBorder2>
+<tr><td height=25 valign=middle>
+<img src="skin/default/Forum_nav.gif" align=absmiddle> <a href=/>光速互动</a> → 
+<a href=zhuce.html>论坛注册</a> → 填写资料
+<a name=top></a>
+</td></td>
+</table>
+<br>
+
+<FORM name=theForm action=zhuce3.html method=post>
+<table cellpadding=3 cellspacing=1 align=center class=tableborder1>
+<TBODY> 
+<TR align=middle> 
+<Th colSpan=2 height=24>新用户注册</TD>
+</TR>
+
+<TR> 
+<TD width=40% class=tablebody1><B>用户名</B>：<BR>注册用户名长度限制为0－10字节</TD>
+<TD width=60%  class=tablebody1> 
+<INPUT maxLength="10" size=30 name=name> </TD>
+</TR>
+<TR> 
+<TD width=40%  class=tablebody1><B>性别</B>：<BR>请选择您的性别</font></TD>
+<TD width=60%  class=tablebody1> <INPUT type=radio CHECKED value=1 name=sex>
+<IMG  src=skin/default/Male.gif align=absMiddle>男孩 &nbsp;&nbsp;&nbsp;&nbsp; 
+<INPUT type=radio value=0 name=sex>
+<IMG  src=skin/default/Female.gif align=absMiddle>女孩</font></TD>
+</TR>
+
+<TR> 
+<TD width=40% class=tablebody1><B>密码(至少6位)</B>：<BR>
+请输入密码，区分大小写。<BR>
+请不要使用任何类似 '*'、' ' 或 HTML 字符
+</TD>
+<TD width=60% class=tablebody1>
+<INPUT type=password maxLength=16 size=30 name=psw> 
+</TD>
+</TR>
+<TR> 
+<TD width=40% class=tablebody1><B>密码(至少6位)</B>：<BR>请再输一遍确认</TD>
+<TD class=tablebody1> 
+<INPUT type=password maxLength=16 size=30 name=pswc> 
+</TD>
+</TR>
+
+<TR> 
+<TD width=40%  class=tablebody1><B>密码问题</B>：<BR>忘记密码的提示问题</TD>
+<TD class=tablebody1> 
+<INPUT type=text size=30 name=quesion> 
+</TD>
+</TR>
+<TR> 
+<TD width=40%  class=tablebody1><B>问题答案</B>：<BR>忘记密码的提示问题答案，用于取回论坛密码</TD>
+<TD class=tablebody1> 
+<INPUT type=text size=30 name=answer> 
+</TD>
+</TR>
+<TR> 
+<TD width=40%  class=tablebody1><B>Email地址</B>：<BR>请输入有效的邮件地址，这将使您能用到论坛中的所有功能</font></TD>
+<TD width=60%  class=tablebody1> 
+<INPUT maxLength=50 size=30 name=email> </TD>
+</TR>
+</tbody>
+</table>
+</td></tr></tbody></table>
+
+</td></tr></table>
+<table cellpadding=0 cellspacing=0 border=0 width=97% align=center>
+<tr>
+<td width=35% height=24></td>
+<td width=55% ><br>
+<input type=submit value="注 册" name=Submit><input type=reset value="清 除" name=Submit2></td>
+</tr></table>
+</form>
+<br>
+<br>

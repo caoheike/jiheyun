@@ -1,0 +1,9 @@
+<TR align=middle>
+<TD class=tablebody2 width=32 height=27><img src="/skin/default/folder.gif" alt=开放主题></TD>
+<TD align=left class=tablebody1 width=*><a href="[帖子连接]">&nbsp;[帖子标题]</a></TD>
+<TD class=tablebody2 width=80><a href="#" target=_blank>[帖子作者]</a></TD>
+<TD class=tablebody1 width=64>[回复数量]/[阅读数量]</TD>
+<TD align=left class=tablebody2 width=195>
+&nbsp;&nbsp;<a href="#">[回复时间]</a>&nbsp;<font color=#FF0000>|</font>
+&nbsp;<a href=# target=_blank>[回复作者]</a></TD>
+</TR>
